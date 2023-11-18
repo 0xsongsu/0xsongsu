@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/johnze268" target="blank"><img src="https://img.shields.io/twitter/follow/johnze268?logo=twitter&style=for-the-badge" alt="johnze268" /></a> </p>
 
-- 📝 I regularly write articles on [https://twitter.com/Johnze268](https://twitter.com/Johnze268)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/johnze268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="johnze268" height="30" width="40" /></a>
