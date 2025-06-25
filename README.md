@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Song Su</h1>
-<h3 align="center">Full-Stack Developer | Open Source Contributor</h3>
+<h1 align="center">Hi 👋, I'm SongSu 松鼠🐿️</h1>
+<h3 align="center">AI-Driven Developer | Open Source Contributor</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0xsongsu&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
