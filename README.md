@@ -1,40 +1,64 @@
-<h1 align="center">Hi 👋, I'm SongSu 松鼠🐿️</h1>
-<h3 align="center">AI-Driven Developer | Open Source Contributor</h3>
-
+<h1 align="center">Hi, I'm SongSu</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xsongsu&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/0xsongsu?label=Followers&style=flat&color=blue" alt="followers" />
-  <img src="https://img.shields.io/github/stars/0xsongsu?label=Total%20Stars&style=flat&color=yellow" alt="stars" />
-</p>
-
-## 🚀 About Me
-- 🔭 Building innovative projects with **23 repositories** and growing
-- ⭐ Earned **11 stars** across projects with active community engagement
-- 🏆 GitHub achievements: **2x Pull Shark**, **Quickdraw**, **3x Starstruck**
-- 👥 **424 followers** and actively contributing to open source
-- 📍 Based in China, coding globally
-
-## 🛠️ Tech Stack & Tools
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xsongsu&layout=compact&theme=default" alt="languages" />
-</p>
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xsongsu&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="stats" />
+  <b>AI + Web3 Builder</b> | Open Source Contributor
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xsongsu&theme=default" alt="streak" />
-</p>
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xsongsu&theme=flat&column=4&margin-w=15&margin-h=15" alt="trophies" />
+  <img src="https://komarev.com/ghpvc/?username=0xsongsu&color=blueviolet&style=flat" />
+  <img src="https://img.shields.io/github/followers/0xsongsu?style=flat&color=blue" />
 </p>
 
 ---
+
+### About
+
+- Building at the intersection of **AI** and **Web3**
+- Contributed to [zama-ai](https://github.com/zama-ai), [electric-capital](https://github.com/electric-capital), [stakingrewards](https://github.com/stakingrewards) and 29+ other repositories
+- Focused on: LLM Applications, Smart Contracts, Automation Tools
+
+### Skills
+
+```
+                            AI/ML
+                             85%
+                              |
+                              |
+        Frontend  60% --------+-------- 80%  Backend
+                              |
+                              |
+                             85%
+                          Web3/Blockchain
+```
+
+### Tech Stack
+
+**Languages:** Python, TypeScript, Solidity, Go, Rust
+
+**AI/ML:** LangChain, OpenAI API, Claude API, HuggingFace
+
+**Web3:** Ethereum, Smart Contracts, DeFi
+
+**Tools:** Docker, Git, Linux, VS Code, Cursor
+
+### GitHub Stats
+
 <p align="center">
-  <i>💡 Always learning, always building, always sharing</i>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=0xsongsu&show_icons=true&theme=default&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xsongsu&layout=compact&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xsongsu&hide_border=true" />
+</p>
+
+### Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=0xsongsu&theme=flat&column=4&no-frame=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>Open to collaboration and new opportunities</i>
+</p>
