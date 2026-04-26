@@ -18,15 +18,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xsongsu&hide_border=true" />
 </p>
-
-### Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xsongsu&theme=flat&column=4&no-frame=true" />
-</p>
-
----
-
-<p align="center">
-  <i>Open to collaboration and new opportunities</i>
-</p>
