@@ -8,38 +8,6 @@
   <img src="https://img.shields.io/github/followers/0xsongsu?style=flat&color=blue" />
 </p>
 
----
-
-### About
-
-- Building at the intersection of **AI** and **Web3**
-- Contributed to [zama-ai](https://github.com/zama-ai), [electric-capital](https://github.com/electric-capital), [stakingrewards](https://github.com/stakingrewards) and 29+ other repositories
-- Focused on: LLM Applications, Smart Contracts, Automation Tools
-
-### Skills
-
-```
-                            AI/ML
-                             85%
-                              |
-                              |
-        Frontend  60% --------+-------- 80%  Backend
-                              |
-                              |
-                             85%
-                          Web3/Blockchain
-```
-
-### Tech Stack
-
-**Languages:** Python, TypeScript, Solidity, Go, Rust
-
-**AI/ML:** LangChain, OpenAI API, Claude API, HuggingFace
-
-**Web3:** Ethereum, Smart Contracts, DeFi
-
-**Tools:** Docker, Git, Linux, VS Code, Cursor
-
 ### GitHub Stats
 
 <p align="center">
